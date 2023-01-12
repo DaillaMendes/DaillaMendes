@@ -1,9 +1,9 @@
 ## Oi, eu sou a Dáilla Mendes!
 
-Graduanda em Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e desenvolvimento web, tenho estudado e mantido todo meu foco em programação.
-Atualmente também curso o bootcamp Web Developer Fullstack Programadores Cariocas, pela Resilia educação, um projeto da Prefeitura do Rio de Janeiro em uma parceria com Resilia Educação e Senac RJ, com término previsto para fevereiro de 2023.
+Graduanda em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento web, tenho estudado e mantido todo meu foco em programação.
+Atualmente também curso o bootcamp Web Developer Full-Stack Programadores Cariocas, pela Resilia educação, um projeto da Prefeitura do Rio de Janeiro em uma parceria com Resilia Educação e Senac RJ, com término previsto para fevereiro de 2023.
 
-Através da graduação, tenho aprendido conceitos mais aprofundados, o que está me ajudando a  consolidar uma boa base na área. Já no Programadores Cariocas, tenho aprendido tudo que preciso para entrar no mercado de trabalho, iniciando como Desenvolvedora Web, como as tecnologias HTML, CSS, Bootstrap, JavaScript, React.js, banco de dados e Node.js. No âmbito das softskills, tenho aprimorado meu senso de empatia, trabalho em grupo e liderança. Como representante de turma, pude trabalhar  o senso crítico e democrático, de forma extremamente profissional, possibilitando melhoras para a turma.
+Através da graduação, tenho aprendido conceitos mais aprofundados, o que está me ajudando a  consolidar uma boa base na área. Já no Programadores Cariocas, tenho aprendido tudo que preciso para entrar no mercado de trabalho, iniciando como Desenvolvedora Web, como as tecnologias HTML, CSS, Bootstrap, JavaScript, React.js, banco de dados e Node.js. No âmbito das Soft-Skills, tenho aprimorado meu senso de empatia, trabalho em grupo e liderança. Como representante de turma, pude trabalhar  o senso crítico e democrático, de forma extremamente profissional, possibilitando melhoras para a turma.
 
 Sou uma pessoa extremamente comunicativa e que gosta de ajudar as pessoas e isso me torna também uma grande profissional.
 
