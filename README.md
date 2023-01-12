@@ -19,7 +19,8 @@ Sou uma pessoa extremamente comunicativa e que gosta de ajudar as pessoas e isso
   <img align="center" alt="dailla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="dailla-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="dailla-gitl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  
+  <img align="right" alt="dailla-pic" height="250" style="border-radius:50px;" src="./img/cdcacdb3-bcce-444f-b670-7bfc20c4a73b.jpg">
+</div>
  
   ##
  
